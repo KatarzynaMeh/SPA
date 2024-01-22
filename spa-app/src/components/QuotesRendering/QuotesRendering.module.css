@@ -1,0 +1,11 @@
+.container{ 
+    border-radius: 30px;
+    background-color: rgb(19, 18, 18);
+    padding: 40px;
+    margin: 10px;
+}
+
+.indentationText{
+    padding: 10px;
+    background-color:rgb(19, 18, 18) ;
+}
